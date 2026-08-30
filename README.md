@@ -116,11 +116,7 @@ A social media application with real-time communication.
 
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vivek5130&show_icons=true&hide_border=true&cache_seconds=86400"
-    alt="Vivek's GitHub Stats"
-    height="170"
-  />
+
 
   <img
     src="https://streak-stats.demolab.com?user=vivek5130&hide_border=true"
@@ -130,11 +126,7 @@ A social media application with real-time communication.
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek5130&layout=compact&hide_border=true&cache_seconds=86400"
-    alt="Top Languages"
-    height="170"
-  />
+
 </p>
 
 ## 🎯 Current Focus
