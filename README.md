@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **vivek5130/vivek5130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -116,15 +114,14 @@ A social media application with real-time communication.
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=vivek5130&show_icons=true&hide_border=true&cache_seconds=86400"
     alt="Vivek's GitHub Stats"
     height="170"
   />
-</p>
 
-<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=vivek5130&hide_border=true"
     alt="GitHub Streak"
@@ -139,7 +136,6 @@ A social media application with real-time communication.
     height="170"
   />
 </p>
----
 
 ## 🎯 Current Focus
 
