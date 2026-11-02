@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Vivek Ganathe</h1>
 
 <h3 align="center">
-  Full Stack Developer • Generative AI Enthusiast
+  Full Stack AI Engineer
 </h3>
 
 <p align="center">
